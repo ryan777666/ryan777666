@@ -1,16 +1,15 @@
-### Hi there 👋
+### wow look at him 💪
 
-<!--
-**ryan777666/ryan777666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é ryan
 
-Here are some ideas to get you started:
+- Estou esudando no [alura](https.www.alura.com.br)
+- Estudando me desenvolvendo na linguagem Javascript
+- Utilizo esse espaço para minha organização e compartilhamendo dos meus projetos dessenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### Você entra em contato comigo 👽
+
+- ryan.alves.moreira@escola.pr.gov.br
+- 
+- ryan777666
+
+![](https://media.tenor.com/lJglTCWzhtMAAAAi/spongebob-vibin.gif)![](https://media.tenor.com/yEIYluHz3vgAAAAd/wow.gif)
